@@ -3,6 +3,8 @@
 This is a simple CLI-based caching proxy server built with Node.js and Express.  
 It forwards incoming requests to an origin server, caches the responses, and returns cached data when the same request is made again — with helpful `X-Cache` headers to show if the response came from cache or not.
 
+https://roadmap.sh/projects/caching-server
+
 ---
 
 ## 🚀 Features
